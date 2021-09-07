@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - ⚡ Tech Stack: HTML,CSS,Vue,React,Express,Mongodb,Firebase
 
 <div align="center">
-  <h3>sa</h3>
+  <h3>Tech Stack</h3>
   <img width="55" height="49" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg"/>
     <img width="55" height="49" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg"/>
     
