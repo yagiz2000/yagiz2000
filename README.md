@@ -8,4 +8,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: yagzceritoglu@gmail.com
 - ⚡ Tech Stack: HTML,CSS,Vue,React,Express,Mongodb,Firebase
 
-<div align="center"><img width="55" margin-right="15" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bootstrap.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/><img width="55" 
+<div align="center"><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bootstrap.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
+  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/vue.svg"/>
