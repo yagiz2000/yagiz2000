@@ -19,6 +19,8 @@ Here are some ideas to get you started:
   <img width="55" height="49" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mongodb.svg"/>
     <img width="55" height="49" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/express.svg"/>
     <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/postgresql.svg"/>
+      <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/fastify.svg"/>
+
 
 
 
