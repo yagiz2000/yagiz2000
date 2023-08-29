@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img width="55" height="49" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/express.svg"/>
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/postgresql.svg"/>
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/fastify.svg"/>
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nextjs.svg"/>
+  <img width="55" src="[https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nextjs.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F354113%2Fnextjs-icon&psig=AOvVaw3crsRSE8XSayKhVszcGXPZ&ust=1693394219508000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOiavJnfgYEDFQAAAAAdAAAAABAE)https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F354113%2Fnextjs-icon&psig=AOvVaw3crsRSE8XSayKhVszcGXPZ&ust=1693394219508000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOiavJnfgYEDFQAAAAAdAAAAABAE"/>
 
 
 
