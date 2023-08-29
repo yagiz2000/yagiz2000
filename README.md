@@ -3,8 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning React,Vue
-- 🤔 I’m looking for help with React,Vue
+- 🌱 I’m currently learning Next, React, MongoDB
+- 🤔 I’m looking for help with Next, React, MongoDB
 - 📫 How to reach me: yagzceritoglu@gmail.com
 
 <div align="center">
